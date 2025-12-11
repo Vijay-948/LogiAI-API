@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+openai
+langchain
+langchain-openai
+faiss-cpu
+tiktoken
+pydantic
